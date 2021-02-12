@@ -2,11 +2,8 @@
 
 Integrantes del grupo:
 
-Ignacio Pieve Roiger   [Legajo: 79071]
+Ignacio Pieve Roiger [Legajo: 79071]
 
-Leila Aylén Spini      [Legajo: 79876]
+Leila Aylén Spini [Legajo: 79876]
 
-
-
-Licencia pública GNU
-Cátedra de Comunicaciones - UTN FRC
+Licencia pública GNU Cátedra de Comunicaciones - UTN FRC
